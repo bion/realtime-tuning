@@ -1,3 +1,3 @@
 #! /bin/bash
 
-/sbin/sysctl -w vm.swappiness=10
+/sbin/sysctl -w vm.swappiness=0
